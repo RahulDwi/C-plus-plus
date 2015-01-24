@@ -8,4 +8,5 @@ int main()
  cin>>a>>b;
  sum=a+b;
  cout<<"sum ="<<sum;
+ return 0;
 }
